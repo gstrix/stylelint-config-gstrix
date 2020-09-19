@@ -1,0 +1,38 @@
+{
+  "name": "stylelint-config-gstrix",
+  "version": "0.0.8",
+  "private": false,
+  "description": "Default stylelint config used by Gstrix.",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint --report-unused-disable-directives .",
+    "test": "npm run eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstrix/stylelint-config-gstrix.git"
+  },
+  "keywords": [
+    "gstrix",
+    "stylelint",
+    "stylelint-config",
+    "config",
+    "lint"
+  ],
+  "author": "The Gstrix Authors (https://github.com/gstrix/stylelint-config-gstrix/graphs/contributors)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gstrix/stylelint-config-gstrix/issues"
+  },
+  "homepage": "https://github.com/gstrix/stylelint-config-gstrix#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "stylelint": "^13.7.1"
+  },
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
+  }
+}
