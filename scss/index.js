@@ -34,7 +34,6 @@ module.exports = {
     'scss/no-duplicate-mixins': true,
     'scss/operator-no-newline-after': true,
     'scss/operator-no-newline-before': true,
-    'scss/operator-no-unspaced': true,
-    'scss/selector-no-redundant-nesting-selector': true
+    'scss/operator-no-unspaced': true
   }
 };
