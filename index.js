@@ -18,7 +18,7 @@ module.exports = {
     'color-named': 'never',
     'declaration-block-semicolon-newline-before': 'never-multi-line',
     'declaration-empty-line-before': null,
-    'declaration-no-important': true,
+    'declaration-no-important': null,
     'font-family-name-quotes': 'always-where-recommended',
     'font-weight-notation': [
       'numeric',
@@ -36,6 +36,7 @@ module.exports = {
     'no-descending-specificity': null,
     'number-leading-zero': 'never',
     'order/properties-order': [
+      'content',
       'position',
       'top',
       'right',
@@ -160,7 +161,6 @@ module.exports = {
       'caption-side',
       'border-spacing',
       'border-collapse',
-      'content',
       'quotes',
       'counter-reset',
       'counter-increment',
@@ -280,13 +280,12 @@ module.exports = {
     ],
     'selector-no-vendor-prefix': true,
     'shorthand-property-no-redundant-values': true,
-    'string-quotes': 'double',
+    'string-quotes': 'single',
     'unicode-bom': 'never',
-    'value-list-comma-newline-after': 'never-multi-line',
+    'value-list-comma-newline-after': 'always-multi-line',
     'value-list-comma-newline-before': 'never-multi-line',
-    'value-list-comma-space-after': 'always',
+    'value-list-comma-space-after': 'always-single-line',
     'value-no-vendor-prefix': true,
-    'declaration-no-important': null,
     'color-hex-case': 'upper',
     'color-hex-length': 'long'
   }
