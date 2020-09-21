@@ -1,4 +1,6 @@
-# stylelint-config-gstrix [![npm version](https://img.shields.io/badge/npm-v0.0.8-brightgreen)](https://www.npmjs.com/package/stylelint-config-gstrix)
+# stylelint-config-gstrix
+
+[![npm version](https://img.shields.io/npm/v/stylelint-config-gstrix?color=brightgreen)](https://www.npmjs.com/package/stylelint-config-gstrix) ![npm license](https://img.shields.io/npm/l/stylelint-config-gstrix?color=brightgreen)
 
 Default stylelint config used by Bootstrap.
 
