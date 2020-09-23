@@ -9,7 +9,7 @@ Default stylelint config used by Bootstrap.
 ```bash
 npm install stylelint-config-gstrix --save-dev
 # Or with yarn:
-yarn add stylelint-config-gstrox --dev
+yarn add stylelint-config-gstrix --dev
 ```
 
 ## Usage

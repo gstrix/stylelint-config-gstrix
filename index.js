@@ -286,7 +286,6 @@ module.exports = {
     'value-list-comma-newline-before': 'never-multi-line',
     'value-list-comma-space-after': 'always-single-line',
     'value-no-vendor-prefix': true,
-    'color-hex-case': 'upper',
     'color-hex-length': 'long'
   }
 };
