@@ -1,4 +1,4 @@
-# 0.0.9
+# 0.1
 
 - Change `content` proprtey to be the first in order
 - Convert `string-quotes` to `single`
