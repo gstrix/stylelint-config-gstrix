@@ -8,7 +8,7 @@ module.exports = {
   'rules': {
     'at-rule-no-unknown': null,
     'scss/at-function-named-arguments': 'never',
-    'scss/at-function-pattern': '^[a-z][a-z-]*$',
+    'scss/at-function-pattern': '^[a-z]+[A-Z0-9][a-z0-9]+[A-Za-z0-9]*$',
     'scss/at-function-parentheses-space-before': 'never',
     'scss/at-import-no-partial-leading-underscore': true,
     'scss/at-import-partial-extension': 'never',
