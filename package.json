@@ -1,6 +1,7 @@
 {
   "name": "stylelint-config-gstrix",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "version_short": "0.1",
   "private": false,
   "description": "Default stylelint config used by Gstrix.",
   "main": "index.js",
