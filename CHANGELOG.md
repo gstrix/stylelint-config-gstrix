@@ -1,3 +1,7 @@
+# 0.1.2
+
+- lower camelCase minor fix.
+
 # 0.1.1
 
 - Change `at-function-pattern` to lowre camelCase instead of kebab case.
